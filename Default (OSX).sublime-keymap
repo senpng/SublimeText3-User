@@ -31,5 +31,10 @@
         "operand": true,
         "match_all": true
       }]
+    },
+    {
+      "keys": ["alt+m"],
+      "command": "markdown_preview_select",
+      "args": {"target": "browser"}
     }
 ]
