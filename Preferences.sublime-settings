@@ -1,11 +1,10 @@
 {
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
-	"findreplace_small": true,
 	"font_size": 14,
 	"ignored_packages":
 	[
@@ -14,20 +13,15 @@
 	"match_brackets_content": false,
 	"match_selection": false,
 	"match_tags": false,
+	"material_theme_accent_orange": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_separator": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
-	"predawn_findreplace_small": true,
-	"predawn_quick_panel_small": false,
-	"predawn_sidebar_arrows": false,
-	"predawn_sidebar_large": true,
-	"predawn_tabs_active_underline": true,
-	"predawn_tabs_small": true,
-	"preview_on_click": false,
+	"preview_on_click": true,
 	"scroll_past_end": true,
 	"scroll_speed": 5.0,
-	"show_full_path": false,
-	"tabs_small": true,
-	"theme": "predawn-DEV.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
