@@ -7,13 +7,12 @@
 	[
 		"Babel",
 		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
-		"JsFormat",
 		"Markdown Preview",
 		"Material Theme",
 		"Package Control",
-		"Predawn",
-		"SublimeLinter-jsxhint"
+		"Predawn"
 	]
 }
